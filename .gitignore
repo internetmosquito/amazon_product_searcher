@@ -35,6 +35,8 @@ pip-delete-this-directory.txt
 
 # Credentials file
 amazon_credentials.json
+*.xls
+*.html
 
 # Unit test / coverage reports
 htmlcov/
